@@ -59,7 +59,7 @@ attrition rather than assuming: `job_satisfaction is 2 or less` increases
 the likelihood of attrition by **1.90x**, and `department is Customer
 Support` increases it by **1.84x**.
 
-## The insight (your "so what")
+## The insight
 - **Customer Support has 39.3% attrition** - nearly double every other department
 - **Overtime is the single strongest driver**: 35.4% attrition if working
   overtime, vs. 19.7% if not
