@@ -1,0 +1,7 @@
+department,headcount,leavers,attrition_rate_pct,avg_tenure_years,avg_monthly_income,attrition_rank
+Customer Support,247,97,39.3,2.6,5144.0,1
+Engineering,271,61,22.5,2.5,5096.0,2
+Sales,295,64,21.7,2.6,5272.0,3
+Finance,141,30,21.3,2.7,5038.0,4
+HR,96,20,20.8,2.9,5137.0,5
+Marketing,150,28,18.7,2.4,5263.0,6
