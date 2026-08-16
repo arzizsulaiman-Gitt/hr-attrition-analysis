@@ -72,11 +72,3 @@ Support` increases it by **1.84x**.
 department and strongly tied to overtime. A retention program that targets
 "everyone" wastes budget; targeting Customer Support overtime workers first
 would address the biggest chunk of turnover.
-
-## CV bullet
-"Built an end-to-end HR attrition analysis: cleaned 1,200 employee records in
-Excel using formula-driven logic (COUNTIFS/AVERAGEIFS/IFERROR), analyzed
-attrition drivers in SQL (window functions), and visualized results in Power
-BI; identified that overtime nearly doubles attrition risk and pinpointed a
-specific high-risk segment (Customer Support + overtime + low satisfaction,
-47.7% attrition) as the highest-value target for a retention intervention."
